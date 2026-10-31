@@ -65,7 +65,7 @@ export function OnboardingWizard() {
   return (
     <div className="grid min-h-dvh lg:grid-cols-[minmax(340px,0.8fr)_1.2fr]">
       <aside className="relative hidden flex-col justify-between overflow-hidden bg-grey-500 p-10 text-white lg:flex">
-        <Image src="/images/dress-maroon.png" alt="" fill priority sizes="40vw" className="object-cover object-center" />
+        <Image src="/images/dress-maroon.webp" alt="" fill priority sizes="40vw" className="object-cover object-center" />
         <div className="absolute inset-0 bg-gradient-to-b from-black/30 via-black/30 to-black/80" />
         <div className="relative rounded-md bg-white/90 px-4 py-2 self-start">
           <Logo width={110} />

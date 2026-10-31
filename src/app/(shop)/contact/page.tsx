@@ -12,7 +12,7 @@ export default function ContactPage() {
     <Container className="py-8 lg:py-12">
       <div className="relative mb-12 h-56 overflow-hidden rounded-2xl bg-grey-500 md:h-72">
         <Image
-          src="/images/contact-hero.png"
+          src="/images/contact-hero.webp"
           alt=""
           fill
           priority

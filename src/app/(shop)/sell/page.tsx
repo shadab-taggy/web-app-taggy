@@ -30,7 +30,7 @@ export default function SellPage() {
       <div className="grid overflow-hidden rounded-2xl border border-grey-500 lg:grid-cols-2">
         <div className="relative min-h-72 bg-grey-500 lg:min-h-[520px]">
           <Image
-            src="/images/dress-olive.png"
+            src="/images/dress-olive.webp"
             alt=""
             fill
             priority

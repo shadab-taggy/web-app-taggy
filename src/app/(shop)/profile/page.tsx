@@ -13,7 +13,7 @@ export default function ProfilePage() {
     <div className="flex flex-col gap-8">
       <h1 className="sr-only">Profile</h1>
       <section className="flex flex-col gap-6 sm:flex-row sm:items-center sm:gap-8">
-        <Avatar name="Lucydahlin" src="/images/wardrobe-house.png" size={112} className="size-24 sm:size-28" />
+        <Avatar name="Lucydahlin" src="/images/wardrobe-house.webp" size={112} className="size-24 sm:size-28" />
         <div className="flex flex-1 flex-col gap-3">
           <div className="flex flex-wrap items-center gap-3">
             <p className="font-serif text-display-xs font-semibold">@Lucydahlin</p>

@@ -20,7 +20,7 @@ export default function AboutPage() {
       <div className="grid items-start gap-10 lg:grid-cols-[minmax(0,0.9fr)_minmax(0,1.1fr)] lg:gap-20">
         <div className="relative aspect-[4/5] overflow-hidden rounded-2xl bg-grey-500 lg:sticky lg:top-40">
           <Image
-            src="/images/about-hero.png"
+            src="/images/about-hero.webp"
             alt="A model in a flowing terracotta dress against a blue sky"
             fill
             priority

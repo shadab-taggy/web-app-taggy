@@ -47,7 +47,7 @@ export function EditProfileForm() {
 
       <div className="grid gap-8 lg:grid-cols-[280px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)]">
         <section aria-label="Profile photo" className="flex h-fit flex-col items-center gap-4 rounded-xl border border-grey-500 bg-brown-100 p-6 text-center">
-          <Avatar name="Lucydahlin" src="/images/wardrobe-house.png" size={128} />
+          <Avatar name="Lucydahlin" src="/images/wardrobe-house.webp" size={128} />
           <div>
             <p className="text-md font-semibold">@Lucydahlin</p>
             <p className="text-sm text-powder-900">Profile 66% complete</p>

@@ -20,7 +20,7 @@ export function AuthShell({
     <div className="grid min-h-dvh lg:grid-cols-[1.05fr_1fr]">
       <aside className="relative hidden bg-grey-500 lg:block">
         <Image
-          src="/images/dress-olive.png"
+          src="/images/dress-olive.webp"
           alt=""
           fill
           priority

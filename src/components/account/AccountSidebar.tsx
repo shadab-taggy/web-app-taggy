@@ -14,7 +14,7 @@ export function AccountSidebar() {
   return (
     <nav aria-label="Account" className="flex flex-col gap-1">
       <Link href="/profile" className="mb-4 flex items-center gap-3 rounded-lg p-2 hover:bg-grey-500/50">
-        <Avatar name="Lucydahlin" src="/images/wardrobe-house.png" size={48} />
+        <Avatar name="Lucydahlin" src="/images/wardrobe-house.webp" size={48} />
         <span>
           <span className="block text-md font-semibold">@Lucydahlin</span>
           <span className="block text-xs text-powder-900">View profile</span>

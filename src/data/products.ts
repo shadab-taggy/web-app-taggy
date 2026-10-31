@@ -1,7 +1,7 @@
 import type { Product } from "@/lib/types";
 
 // Mock data mirroring the Figma sample content. Replace with API calls later.
-const img = (name: string) => `/images/${name}.png`;
+const img = (name: string) => `/images/${name}.webp`;
 
 export const products: Product[] = [
   { id: "p1", brand: "Zimmermann", size: "XS / UK 6", condition: "Very good", price: 225, image: img("dress-floral") },
